@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/base/mod1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/base/mod2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/skillbox/modd1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skillbox/modd2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
